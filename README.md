@@ -1,2 +1,2 @@
-# LP1A3-Linguagem-de-Programacao-I
+# LP1A3
 Repositório com os exemplos e os exercícios em linguagem Java da disciplina de Linguagem de Programação I
