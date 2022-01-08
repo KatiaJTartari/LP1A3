@@ -1,0 +1,14 @@
+[14/07/2021 18:15:23] O usuário solicitou a inserção de um produto.
+[14/07/2021 18:15:41] O usuário solicitou a inserção de um produto em posição específica.
+[14/07/2021 18:15:54] O usuário solicitou a consulta de um produto pelo nome.
+[14/07/2021 18:16:23] O usuário solicitou a consulta de um produto pela posição.
+[14/07/2021 18:17:20] The user has requested to enter a product.
+[14/07/2021 18:17:33] The user requested to remove a product by name.
+[14/07/2021 18:17:53] The user has requested to enter a product.
+[15/07/2021 14:46:44] O usuário solicitou a inserção de um produto.
+[15/07/2021 14:47:10] O usuário solicitou a consulta de um produto pela posição.
+[15/07/2021 14:48:37] The user has requested to enter a product.
+[15/07/2021 14:49:14] The user has requested to remove a product by position.
+[15/07/2021 14:49:25] The user has requested to enter a product.
+[15/07/2021 14:49:39] The user requested to query a product by name.
+[15/07/2021 14:49:58] The user requested to query a product by name.

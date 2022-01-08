@@ -1,0 +1,13 @@
+[14/07/2021 18:07:45] O usuário solicitou a inserção de um produto.
+[14/07/2021 18:08:04] O usuário solicitou a inserção de um produto.
+[14/07/2021 18:09:03] O usuário solicitou a inserção de um produto em posição específica.
+[14/07/2021 18:09:30] O usuário solicitou a consulta de um produto pelo nome.
+[14/07/2021 18:09:49] O usuário solicitou a consulta de um produto pela posição.
+[14/07/2021 18:10:04] O usuário solicitou a consulta de um produto pelo nome.
+[14/07/2021 18:10:11] O usuário solicitou a consulta de um produto pela posição.
+[14/07/2021 18:10:23] O usuário solicitou a consulta de um produto pela posição.
+[14/07/2021 18:10:32] O usuário solicitou a consulta de um produto pela posição.
+[14/07/2021 18:11:44] O usuário solicitou a substituição de um produto.
+[14/07/2021 18:12:03] O usuário solicitou a remoção de um produto pelo nome.
+[14/07/2021 18:12:15] O usuário solicitou a remoção de um produto pela posição.
+[14/07/2021 18:12:30] O usuário solicitou a inserção de um produto.

@@ -1,0 +1,36 @@
+1) Inserir Produto
+2) Inserir Produto em Posição Específica
+3) Consultar Produto (pelo Nome)
+4) Consultar Produto (pela Posição)
+5) Substituir Produto
+6) Remover Produto (pelo Nome)
+7) Remover Produto (pela Posição)
+Digite uma Opção (0 para Sair): 
+Este Produto Existe!
+Este Produto Não Existe!
+Formato Inválido ou Posição Inválida!
+Formato Inválido!
+Informe a Posição do Produto a ser Consultado:
+Informe a Posição do Produto a ser Inserido:
+Informe a Posição do Produto a ser Substituído:
+Informe o Produto a ser Consultado:
+Informe o Produto a ser Inserido:
+Informe o Produto a ser Removido (pela posição):
+Informe o Produto a ser Removido (pelo nome):
+Informe o Produto Substituto:
+O Produto que está nessa Posição é: 
+O usuário solicitou a inserção de um produto.
+O usuário solicitou a inserção de um produto em posição específica.
+O usuário solicitou a consulta de um produto pelo nome.
+O usuário solicitou a consulta de um produto pela posição.
+O usuário solicitou a substituição de um produto.
+O usuário solicitou a remoção de um produto pelo nome.
+O usuário solicitou a remoção de um produto pela posição.
+OPÇÕES:
+Opção Inválida!
+Produto Inserido em Posição Específica!
+Produto Inserido!
+Produto Removido pelo Posição!
+Produto Removido pelo Nome!
+Produto Substituído!
+Programa Encerrado!

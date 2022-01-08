@@ -1,0 +1,36 @@
+1) Insert Product
+2) Insert Product in Specific Position
+3) Consult Product (by Name)
+4) Consult Product (by Position)
+5) Replace Product
+6) Remove Product (by Name)
+7) Remove Product (by Position)
+Enter an Option (0 to Exit):
+This Product Exists!
+This Product Does Not Exist!
+Invalid Format or Invalid Position!
+Invalid Format!
+Inform the Position of the Product to be Consulted:
+Inform the Position of the Product to be Inserted:
+Inform the Position of the Product to be Replaced:
+Inform the Product to be consulted:
+Inform the Product to be Inserted:
+Inform the Product to be Removed (by position):
+Inform the Product to be Removed (by name):
+Inform the Substitute Product:
+The Product that is in this Position is:
+The user has requested to enter a product.
+The user requested the insertion of a product in a specific position.
+The user requested to query a product by name.
+The user has requested to query a product by position.
+The user has requested to replace a product.
+The user requested to remove a product by name.
+The user has requested to remove a product by position.
+OPTIONS:
+Invalid option!
+Product Inserted in Specific Position!
+Product Inserted!
+Product Removed by Position!
+Product Removed by Name!
+Replaced Product!
+Program Closed!
